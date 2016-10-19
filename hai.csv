@@ -1,0 +1,217 @@
+"","Poll","Date","Sample","MoE","Clinton","Trump","Spread","month","day","year"
+"1","RCP Average",2016-10-16,NA,NA,"48.8","41.8","Clinton +7.0",10,16,2016
+"2","Monmouth Monmouth",2016-10-16,726,3.6,"53","41","Clinton +12",10,16,2016
+"3","CBS News CBS News",2016-10-16,1189,3,"51","40","Clinton +11",10,16,2016
+"4","LA Times/USC Tracking LA Times",2016-10-16,2975,4.5,"44","45","Trump +1",10,16,2016
+"5","ABC News/Wash Post ABC/WP",2016-10-13,740,4,"50","46","Clinton +4",10,13,2016
+"6","LA Times/USC Tracking LA Times",2016-10-15,2946,4.5,"44","45","Trump +1",10,15,2016
+"7","NBC News/Wall St. Jrnl NBC/WSJ",2016-10-13,905,3.3,"51","41","Clinton +10",10,13,2016
+"8","FOX News FOX News",2016-10-12,917,3,"49","41","Clinton +8",10,12,2016
+"9","NBC News/Wall St. Jrnl NBC/WSJ",2016-10-10,806,3.5,"50","40","Clinton +10",10,10,2016
+"10","NBC News/Wall St. Jrnl NBC/WSJ",2016-10-09,447,4.6,"52","38","Clinton +14",10,9,2016
+"11","LA Times/USC Tracking LA Times",2016-10-13,2879,4.5,"44","44","Tie",10,13,2016
+"12","Economist/YouGov Economist",2016-10-08,971,4.2,"48","43","Clinton +5",10,8,2016
+"13","Reuters/Ipsos Reuters",2016-10-10,2363,2.2,"44","37","Clinton +7",10,10,2016
+"14","The Atlantic/PRRI The Atlantic",2016-10-09,886,3.9,"49","38","Clinton +11",10,9,2016
+"15","Quinnipiac Quinnipiac",2016-10-06,1064,3,"50","44","Clinton +6",10,6,2016
+"16","NBC News/SM NBC News",2016-10-09,23329,1,"51","44","Clinton +7",10,9,2016
+"17","FOX News FOX News",2016-10-06,896,3,"48","44","Clinton +4",10,6,2016
+"18","Economist/YouGov Economist",2016-10-03,911,3.9,"48","43","Clinton +5",10,3,2016
+"19","Reuters/Ipsos Reuters",2016-10-03,1239,3.2,"44","37","Clinton +7",10,3,2016
+"20","The Atlantic/PRRI The Atlantic",2016-10-02,609,NA,"47","41","Clinton +6",10,2,2016
+"21","CBS News CBS News",2016-10-02,1217,4,"49","43","Clinton +6",10,2,2016
+"22","CNN/ORC CNN/ORC",2016-10-02,1213,3,"51","45","Clinton +6",10,2,2016
+"23","LA Times/USC Tracking LA Times",2016-10-03,2275,4.5,"43","47","Trump +4",10,3,2016
+"24","FOX News FOX News",2016-09-29,911,3,"49","44","Clinton +5",9,29,2016
+"25","NBC News/SM NBC News",2016-10-02,26925,1,"50","44","Clinton +6",10,2,2016
+"26","PPP (D) PPP (D)",2016-09-28,933,3.2,"49","45","Clinton +4",9,28,2016
+"27","Gravis Gravis",2016-09-27,3386,1.7,"50","50","Tie",9,27,2016
+"28","Reuters/Ipsos Reuters",2016-09-26,1041,3.5,"44","38","Clinton +6",9,26,2016
+"29","Quinnipiac Quinnipiac",2016-09-25,1115,2.9,"47","46","Clinton +1",9,25,2016
+"30","Bloomberg Bloomberg",2016-09-24,1002,3.1,"46","46","Tie",9,24,2016
+"31","Monmouth Monmouth",2016-09-25,729,3.6,"49","46","Clinton +3",9,25,2016
+"32","Economist/YouGov Economist",2016-09-24,948,3.8,"48","44","Clinton +4",9,24,2016
+"33","LA Times/USC Tracking LA Times",2016-09-26,2726,4.5,"43","46","Trump +3",9,26,2016
+"34","NBC News/SM NBC News",2016-09-25,13598,1.1,"51","44","Clinton +7",9,25,2016
+"35","ABC News/Wash Post ABC/WP",2016-09-22,651,4.5,"49","47","Clinton +2",9,22,2016
+"36","Economist/YouGov Economist",2016-09-19,936,4,"45","44","Clinton +1",9,19,2016
+"37","Reuters/Ipsos Reuters",2016-09-19,1111,3.4,"39","39","Tie",9,19,2016
+"38","McClatchy/Marist McClatchy",2016-09-20,758,3.6,"48","41","Clinton +7",9,20,2016
+"39","NBC News/Wall St. Jrnl NBC/WSJ",2016-09-19,922,3.2,"48","41","Clinton +7",9,19,2016
+"40","Associated Press-GfK AP-GfK",2016-09-16,1251,NA,"50","44","Clinton +6",9,16,2016
+"41","LA Times/USC Tracking LA Times",2016-09-19,2524,4.5,"42","47","Trump +5",9,19,2016
+"42","NBC News/SM NBC News",2016-09-18,13320,1.2,"50","45","Clinton +5",9,18,2016
+"43","FOX News FOX News",2016-09-14,867,3,"45","46","Trump +1",9,14,2016
+"44","CBS News/NY Times CBS/NYT",2016-09-13,1433,3,"46","44","Clinton +2",9,13,2016
+"45","Economist/YouGov Economist",2016-09-13,926,4,"46","44","Clinton +2",9,13,2016
+"46","Quinnipiac Quinnipiac",2016-09-13,960,3.2,"48","43","Clinton +5",9,13,2016
+"47","Reuters/Ipsos Reuters",2016-09-12,1127,3.3,"40","39","Clinton +1",9,12,2016
+"48","LA Times/USC Tracking LA Times",2016-09-11,2596,4.5,"44","44","Tie",9,11,2016
+"49","NBC News/SM NBC News",2016-09-11,16220,1.1,"48","44","Clinton +4",9,11,2016
+"50","ABC News/Wash Post ABC/WP",2016-09-08,642,4.5,"51","43","Clinton +8",9,8,2016
+"51","Economist/YouGov Economist",2016-09-06,955,4.7,"44","42","Clinton +2",9,6,2016
+"52","Reuters/Ipsos Reuters",2016-09-05,1084,3.5,"40","38","Clinton +2",9,5,2016
+"53","CNN/ORC CNN/ORC",2016-09-04,786,3.5,"48","49","Trump +1",9,4,2016
+"54","NBC News/SM NBC News",2016-09-04,32226,1,"48","42","Clinton +6",9,4,2016
+"55","IBD/TIPP IBD/TIPP",2016-09-01,861,3.4,"44","43","Clinton +1",9,1,2016
+"56","FOX News FOX News",2016-08-30,1011,3,"48","42","Clinton +6",8,30,2016
+"57","PPP (D) PPP (D)",2016-08-28,881,3.3,"48","43","Clinton +5",8,28,2016
+"58","Economist/YouGov Economist",2016-08-29,1119,4,"47","42","Clinton +5",8,29,2016
+"59","Reuters/Ipsos Reuters",2016-08-29,1404,3,"40","39","Clinton +1",8,29,2016
+"60","Monmouth Monmouth",2016-08-28,689,3.7,"49","42","Clinton +7",8,28,2016
+"61","USA Today/Suffolk USA Today",2016-08-29,1000,3,"48","41","Clinton +7",8,29,2016
+"62","NBC News/SM NBC News",2016-08-28,24104,1,"48","42","Clinton +6",8,28,2016
+"63","LA Times/USC LA Times/USC",2016-08-28,2460,4.5,"44","44","Tie",8,28,2016
+"64","Reuters/Ipsos Reuters",2016-08-24,1049,3.5,"42","35","Clinton +7",8,24,2016
+"65","Economist/YouGov Economist",2016-08-23,906,4.1,"47","44","Clinton +3",8,23,2016
+"66","Quinnipiac Quinnipiac",2016-08-24,1498,2.5,"51","41","Clinton +10",8,24,2016
+"67","NBC News/SM NBC News",2016-08-21,17459,1.1,"50","42","Clinton +8",8,21,2016
+"68","Reuters/Ipsos Reuters",2016-08-17,1049,3.5,"41","36","Clinton +5",8,17,2016
+"69","Economist/YouGov Economist",2016-08-16,911,4.2,"47","41","Clinton +6",8,16,2016
+"70","Gravis Gravis",2016-08-15,1143,2.9,"54","46","Clinton +8",8,15,2016
+"71","NBC News/SM NBC News",2016-08-14,15179,1.2,"50","41","Clinton +9",8,14,2016
+"72","LA Times/USC LA Times/USC",2016-08-12,2325,NA,"46","42","Clinton +4",8,12,2016
+"73","Reuters/Ipsos Reuters",2016-08-10,974,3.5,"42","36","Clinton +6",8,10,2016
+"74","Economist/YouGov Economist",2016-08-09,911,4.2,"48","41","Clinton +7",8,9,2016
+"75","Bloomberg Bloomberg",2016-08-08,749,3.6,"50","44","Clinton +6",8,8,2016
+"76","ABC News/Wash Post ABC/WP",2016-08-04,815,4,"50","42","Clinton +8",8,4,2016
+"77","LA Times/USC LA Times/USC",2016-08-05,2175,NA,"45","44","Clinton +1",8,5,2016
+"78","IBD/TIPP IBD/TIPP",2016-08-04,851,3.4,"46","39","Clinton +7",8,4,2016
+"79","McClatchy/Marist McClatchy",2016-08-03,983,3.1,"48","33","Clinton +15",8,3,2016
+"80","NBC News/Wall St. Jrnl NBC/WSJ",2016-08-03,800,3.5,"47","38","Clinton +9",8,3,2016
+"81","NBC News/SM NBC News",2016-08-07,11480,1.2,"51","41","Clinton +10",8,7,2016
+"82","FOX News FOX News",2016-08-02,1022,3,"49","39","Clinton +10",8,2,2016
+"83","Economist/YouGov Economist",2016-08-01,933,4.1,"46","43","Clinton +3",8,1,2016
+"84","CBS News CBS News",2016-07-31,1131,3,"47","41","Clinton +6",7,31,2016
+"85","Reuters/Ipsos Reuters",2016-08-03,1072,3.5,"43","39","Clinton +4",8,3,2016
+"86","CNN/ORC CNN/ORC",2016-07-31,894,3.5,"52","43","Clinton +9",7,31,2016
+"87","NBC News/SM NBC News",2016-07-31,12742,1.2,"50","42","Clinton +8",7,31,2016
+"88","PPP (D) PPP (D)",2016-07-30,1276,2.7,"50","45","Clinton +5",7,30,2016
+"89","Reuters/Ipsos Reuters",2016-07-29,1050,3.5,"40","35","Clinton +5",7,29,2016
+"90","Rasmussen Reports Rasmussen",2016-07-27,1000,3,"43","42","Clinton +1",7,27,2016
+"91","Economist/YouGov Economist",2016-07-24,1057,4.5,"47","42","Clinton +5",7,24,2016
+"92","CNN/ORC CNN/ORC",2016-07-24,882,3.5,"45","48","Trump +3",7,24,2016
+"93","LA Times/USC LA Times/USC",2016-07-26,2150,NA,"40","47","Trump +7",7,26,2016
+"94","CBS News CBS News",2016-07-24,1118,4,"43","44","Trump +1",7,24,2016
+"95","NBC News/SM NBC News",2016-07-24,12931,1.2,"46","45","Clinton +1",7,24,2016
+"96","Gravis Gravis",2016-07-22,3462,1.7,"49","51","Trump +2",7,22,2016
+"97","Rasmussen Reports Rasmussen",2016-07-19,1000,3,"42","43","Trump +1",7,19,2016
+"98","Reuters/Ipsos Reuters",2016-07-20,1232,3.2,"40","36","Clinton +4",7,20,2016
+"99","Economist/YouGov Economist",2016-07-17,925,4.5,"45","41","Clinton +4",7,17,2016
+"100","NBC News/SM NBC News",2016-07-17,9436,1.4,"46","45","Clinton +1",7,17,2016
+"101","CNN/ORC CNN/ORC",2016-07-16,872,3.5,"49","42","Clinton +7",7,16,2016
+"102","ABC News/Wash Post ABC/WP",2016-07-14,816,4,"47","43","Clinton +4",7,14,2016
+"103","Rasmussen Reports Rasmussen",2016-07-13,1000,3,"37","44","Trump +7",7,13,2016
+"104","NBC News/Wall St. Jrnl NBC/WSJ",2016-07-13,1000,3.1,"46","41","Clinton +5",7,13,2016
+"105","CBS News/NY Times CBS/NYT",2016-07-12,1358,3,"40","40","Tie",7,12,2016
+"106","Economist/YouGov Economist",2016-07-11,932,4.5,"45","43","Clinton +2",7,11,2016
+"107","McClatchy/Marist McClatchy",2016-07-09,1053,3,"42","39","Clinton +3",7,9,2016
+"108","Rasmussen Reports Rasmussen",2016-07-05,1000,3,"40","42","Trump +2",7,5,2016
+"109","Reuters/Ipsos Reuters",2016-07-06,1345,2.8,"44","33","Clinton +11",7,6,2016
+"110","Economist/YouGov Economist",2016-07-04,1004,4,"47","42","Clinton +5",7,4,2016
+"111","Rasmussen Reports Rasmussen",2016-06-29,1000,3,"39","43","Trump +4",6,29,2016
+"112","USA Today/Suffolk USA Today",2016-06-29,1000,3,"46","40","Clinton +6",6,29,2016
+"113","PPP (D) PPP (D)",2016-06-28,947,3.2,"48","44","Clinton +4",6,28,2016
+"114","Gravis* Gravis*",2016-06-28,2162,2.1,"50","48","Clinton +2",6,28,2016
+"115","FOX News FOX News",2016-06-28,1017,3,"44","38","Clinton +6",6,28,2016
+"116","Reuters/Ipsos Reuters",2016-06-29,1247,2.8,"42","32","Clinton +10",6,29,2016
+"117","IBD/TIPP IBD/TIPP",2016-06-29,837,3.5,"44","40","Clinton +4",6,29,2016
+"118","Economist/YouGov Economist",2016-06-27,1069,3.9,"42","38","Clinton +4",6,27,2016
+"119","Quinnipiac Quinnipiac",2016-06-27,1610,2.4,"42","40","Clinton +2",6,27,2016
+"120","Pew Research Pew",2016-06-26,1655,2.7,"51","42","Clinton +9",6,26,2016
+"121","ABC News/Wash Post ABC/WP",2016-06-23,836,4,"51","39","Clinton +12",6,23,2016
+"122","NBC News/Wall St. Jrnl NBC/WSJ",2016-06-23,1000,3.1,"46","41","Clinton +5",6,23,2016
+"123","Rasmussen Reports Rasmussen",2016-06-21,1000,3,"44","39","Clinton +5",6,21,2016
+"124","Reuters/Ipsos Reuters",2016-06-22,1339,2.8,"44","34","Clinton +10",6,22,2016
+"125","Economist/YouGov Economist",2016-06-20,1011,4.1,"43","39","Clinton +4",6,20,2016
+"126","CNN/ORC CNN/ORC",2016-06-19,891,3.5,"47","42","Clinton +5",6,19,2016
+"127","Monmouth Monmouth",2016-06-19,721,3.7,"49","41","Clinton +8",6,19,2016
+"128","Gravis* Gravis*",2016-06-16,2197,2.1,"51","47","Clinton +4",6,16,2016
+"129","Rasmussen Reports Rasmussen",2016-06-15,1000,3,"44","39","Clinton +5",6,15,2016
+"130","Reuters/Ipsos Reuters",2016-06-15,1323,2.8,"41","32","Clinton +9",6,15,2016
+"131","CNBC CNBC",2016-06-13,801,3.5,"40","35","Clinton +5",6,13,2016
+"132","Bloomberg* Bloomberg*",2016-06-13,750,3.6,"49","37","Clinton +12",6,13,2016
+"133","CBS News CBS News",2016-06-13,1048,4,"43","37","Clinton +6",6,13,2016
+"134","FOX News FOX News",2016-06-08,1004,3,"42","39","Clinton +3",6,8,2016
+"135","Rasmussen Reports Rasmussen",2016-06-07,1000,3,"42","38","Clinton +4",6,7,2016
+"136","Reuters/Ipsos Reuters",2016-06-08,1440,2.9,"42","34","Clinton +8",6,8,2016
+"137","Economist/YouGov Economist",2016-06-05,1636,3.6,"44","41","Clinton +3",6,5,2016
+"138","IBD/TIPP IBD/TIPP",2016-06-05,850,3.3,"45","40","Clinton +5",6,5,2016
+"139","Rasmussen Reports Rasmussen",2016-06-01,1000,3,"39","38","Clinton +1",6,1,2016
+"140","Quinnipiac Quinnipiac",2016-05-30,1561,2.5,"45","41","Clinton +4",5,30,2016
+"141","Rasmussen Reports Rasmussen",2016-05-24,1000,3,"40","39","Clinton +1",5,24,2016
+"142","ABC News/Wash Post ABC/WP",2016-05-19,829,3.5,"44","46","Trump +2",5,19,2016
+"143","LA Times/USC LA Times/USC",2016-08-20,2385,NA,"43","45","Trump +2",8,20,2016
+"144","NBC News/Wall St. Jrnl NBC/WSJ",2016-05-19,1000,3.1,"46","43","Clinton +3",5,19,2016
+"145","Rasmussen Reports Rasmussen",2016-05-18,1000,3,"37","42","Trump +5",5,18,2016
+"146","FOX News FOX News",2016-05-17,1021,3,"42","45","Trump +3",5,17,2016
+"147","CBS News/NY Times CBS/NYT",2016-05-17,1109,3,"47","41","Clinton +6",5,17,2016
+"148","Gravis* Gravis*",2016-05-10,1574,2.5,"50","48","Clinton +2",5,10,2016
+"149","PPP (D) PPP (D)",2016-05-09,1222,3.2,"47","41","Clinton +6",5,9,2016
+"150","CNN/ORC CNN/ORC",2016-05-01,890,3.5,"54","41","Clinton +13",5,1,2016
+"151","Rasmussen Reports Rasmussen",2016-04-28,1000,3,"39","41","Trump +2",4,28,2016
+"152","IBD/TIPP IBD/TIPP",2016-04-28,814,3.5,"47","40","Clinton +7",4,28,2016
+"153","Rasmussen Reports Rasmussen",2016-04-26,1000,3,"38","38","Tie",4,26,2016
+"154","USA Today/Suffolk USA Today",2016-04-24,1000,3,"50","39","Clinton +11",4,24,2016
+"155","GWU/Battleground GWU/Battleground",2016-04-20,1000,3.1,"46","43","Clinton +3",4,20,2016
+"156","FOX News FOX News",2016-04-13,1021,3,"48","41","Clinton +7",4,13,2016
+"157","NBC News/Wall St. Jrnl NBC/WSJ",2016-04-14,1000,3.1,"50","39","Clinton +11",4,14,2016
+"158","CBS News CBS News",2016-04-12,1098,3,"50","40","Clinton +10",4,12,2016
+"159","McClatchy/Marist McClatchy",2016-03-31,1066,3,"50","41","Clinton +9",3,31,2016
+"160","IBD/TIPP IBD/TIPP",2016-04-02,819,3.5,"47","35","Clinton +12",4,2,2016
+"161","PPP (D) PPP (D)",2016-03-26,1083,3,"48","41","Clinton +7",3,26,2016
+"162","FOX News FOX News",2016-03-22,1016,3,"49","38","Clinton +11",3,22,2016
+"163","Bloomberg Bloomberg",2016-03-22,815,3.4,"54","36","Clinton +18",3,22,2016
+"164","Quinnipiac Quinnipiac",2016-03-21,1451,2.6,"46","40","Clinton +6",3,21,2016
+"165","CBS News/NY Times CBS/NYT",2016-03-20,1058,4,"50","40","Clinton +10",3,20,2016
+"166","CNN/ORC CNN/ORC",2016-03-20,925,3,"53","41","Clinton +12",3,20,2016
+"167","Monmouth Monmouth",2016-03-20,848,3.4,"48","38","Clinton +10",3,20,2016
+"168","ABC News/Wash Post ABC/WP",2016-03-06,864,4,"50","41","Clinton +9",3,6,2016
+"169","NBC News/Wall St. Jrnl NBC/WSJ",2016-03-06,1200,2.8,"51","38","Clinton +13",3,6,2016
+"170","Rasmussen Reports Rasmussen",2016-03-01,1000,3,"41","36","Clinton +5",3,1,2016
+"171","CNN/ORC CNN/ORC",2016-02-27,920,3,"52","44","Clinton +8",2,27,2016
+"172","FOX News FOX News",2016-02-17,1031,3,"47","42","Clinton +5",2,17,2016
+"173","USA Today/Suffolk USA Today",2016-02-15,1000,3,"43","45","Trump +2",2,15,2016
+"174","Quinnipiac Quinnipiac",2016-02-15,1342,2.7,"44","43","Clinton +1",2,15,2016
+"175","Quinnipiac Quinnipiac",2016-02-04,1125,2.9,"46","41","Clinton +5",2,4,2016
+"176","PPP (D) PPP (D)",2016-02-03,1236,2.8,"47","40","Clinton +7",2,3,2016
+"177","NBC News/Wall St. Jrnl NBC/WSJ",2016-01-13,800,3.5,"51","41","Clinton +10",1,13,2016
+"178","FOX News FOX News",2016-01-07,1006,3,"44","47","Trump +3",1,7,2016
+"179","Rasmussen Reports Rasmussen",2016-12-23,1000,3,"37","36","Clinton +1",12,23,2016
+"180","CNN/ORC CNN/ORC",2016-12-21,927,3,"49","47","Clinton +2",12,21,2016
+"181","Quinnipiac Quinnipiac",2016-12-20,1140,2.9,"47","40","Clinton +7",12,20,2016
+"182","FOX News FOX News",2015-12-17,1013,3,"49","38","Clinton +11",12,17,2015
+"183","PPP (D) PPP (D)",2015-12-17,1267,2.8,"46","43","Clinton +3",12,17,2015
+"184","ABC News/Wash Post ABC/WP",2015-12-13,851,4,"50","44","Clinton +6",12,13,2015
+"185","NBC/WSJ NBC/WSJ",2015-12-09,849,3.4,"50","40","Clinton +10",12,9,2015
+"186","USA Today/Suffolk USA Today",2015-12-06,1000,3,"48","44","Clinton +4",12,6,2015
+"187","CNN/ORC CNN/ORC",2015-12-01,930,3,"49","46","Clinton +3",12,1,2015
+"188","Quinnipiac Quinnipiac",2015-11-30,1473,2.6,"47","41","Clinton +6",11,30,2015
+"189","MSNBC/Telemundo/Marist MSNBC/Telemundo/Marist",2015-12-02,2360,2,"52","41","Clinton +11",12,2,2015
+"190","FOX News FOX News",2015-11-19,1016,4,"41","46","Trump +5",11,19,2015
+"191","PPP (D) PPP (D)",2015-11-17,1360,2.7,"45","44","Clinton +1",11,17,2015
+"192","McClatchy/Marist McClatchy",2015-11-04,541,4.2,"56","41","Clinton +15",11,4,2015
+"193","Quinnipiac Quinnipiac",2015-11-02,1144,2.9,"46","43","Clinton +3",11,2,2015
+"194","NBC News/Wall St. Jrnl NBC/WSJ",2015-10-29,847,3.4,"50","42","Clinton +8",10,29,2015
+"195","CNN/ORC CNN/ORC",2015-10-17,956,3,"50","45","Clinton +5",10,17,2015
+"196","FOX News FOX News",2015-10-12,1004,3,"40","45","Trump +5",10,12,2015
+"197","PPP (D) PPP (D)",2015-10-04,1338,2.7,"44","44","Tie",10,4,2015
+"198","NBC News/Wall St. Jrnl NBC/WSJ",2015-09-24,NA,NA,"49","39","Clinton +10",9,24,2015
+"199","FOX News FOX News",2015-09-22,1013,3,"46","42","Clinton +4",9,22,2015
+"200","Quinnipiac Quinnipiac",2015-09-21,1574,2.5,"45","43","Clinton +2",9,21,2015
+"201","ABC News/Wash Post ABC/WP",2015-09-10,821,4,"46","43","Clinton +3",9,10,2015
+"202","CNN/ORC CNN/ORC",2015-09-08,930,3,"48","48","Tie",9,8,2015
+"203","MSNBC/Telemundo/Marist MSNBC/Telemundo/Marist",2015-09-09,1115,2.9,"53","40","Clinton +13",9,9,2015
+"204","SurveyUSA SUSA",2015-09-03,900,3.3,"40","45","Trump +5",9,3,2015
+"205","PPP (D) PPP (D)",2015-08-30,1254,2.8,"46","44","Clinton +2",8,30,2015
+"206","Quinnipiac Quinnipiac",2015-08-25,1563,2.5,"45","41","Clinton +4",8,25,2015
+"207","CNN/ORC CNN/ORC",2015-08-16,897,3.5,"51","45","Clinton +6",8,16,2015
+"208","FOX News FOX News",2015-08-13,1008,3,"47","42","Clinton +5",8,13,2015
+"209","Quinnipiac Quinnipiac",2015-07-28,1644,2.4,"48","36","Clinton +12",7,28,2015
+"210","McClatchy/Marist McClatchy",2015-07-28,964,3.2,"54","38","Clinton +16",7,28,2015
+"211","CNN/Opinion Research CNN/ORC",2015-07-25,898,3.5,"56","40","Clinton +16",7,25,2015
+"212","PPP (D) PPP (D)",2015-07-21,1087,3,"50","37","Clinton +13",7,21,2015
+"213","USA Today/Suffolk USA Today",2015-07-12,1000,3,"51","34","Clinton +17",7,12,2015
+"214","CNN/Opinion Research CNN/ORC",2015-06-28,890,3.5,"59","35","Clinton +24",6,28,2015
+"215","FOX News FOX News",2015-06-23,1005,3,"51","34","Clinton +17",6,23,2015
+"216","Quinnipiac Quinnipiac",2015-05-26,1711,2.4,"50","32","Clinton +18",5,26,2015

@@ -1,0 +1,92 @@
+---
+title: "ScrapingPresentation2"
+author: "Jerry"
+date: "10/14/2016"
+output: html_document
+---
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+rm(list=ls())
+install.packages("rvest")
+library(rvest)
+#setwd("/Users/jerrylin/Documents/BPR")
+rcp = read_html("http://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_clinton-5491.html")
+rcp1 = html_nodes(rcp, "#polling-data-full td")
+rcp2 = as.character(rcp1)
+#rcp2 is raw character data. Now we have to parse.
+herp_derp = c("Poll", "Date", "Sample", "MoE", "Clinton", "Trump", "Spread")
+suchread = function(poop){
+  return(gsub("<[^>]*>", "", poop))
+} 
+starts = grep("noCenter", rcp2)
+ends = c(starts-1, length(rcp2))[-1]
+#sanity check 
+length(starts)==length(ends)
+muchwow = matrix(nrow = length(starts), ncol = 7)
+for(i in 1:length(starts)){
+  okay = suchread(rcp2[starts[i]:ends[i]])
+  muchwow[i,] = okay
+}
+wat = data.frame(muchwow)
+names(wat) = herp_derp
+
+
+veryclean = function(boop){
+  beep = gsub("[[:space:]][[:space:]]*", " ", boop)
+  bap = gsub("^ *", "", beep)
+  bop = gsub(" *$", "", bap)
+  return(bop)
+}
+
+wat$Poll = veryclean(wat$Poll)
+wat$Spread = veryclean(wat$Spread)
+allchar = function(dtf){
+  for(i in 1:ncol(dtf)){
+    dtf[,i] = as.character(dtf[,i])
+  }
+  return(dtf)
+}
+wat$Clinton = as.numeric(as.character(wat$Clinton))
+wat$Trump = as.numeric(as.character(wat$Trump))
+wat = allchar(wat)
+
+wat$Date = gsub("^[0-9]*/[0-9]* - ", "", wat$Date)
+#isolate the end date from the poll data
+
+wat$month = as.numeric(gsub("/[0-9]*$", "", wat$Date))
+#isolate the month from the date
+
+wat$day = as.numeric(gsub("^[0-9]*/", "", wat$Date))
+#isolate the day form the date
+
+wat$year = c(rep(2016,181),rep(2015, 35))
+#add years to the data frame
+
+wat$Date = as.POSIXct(paste(wat$month,'/', 
+                     wat$day, '/', wat$year, sep=""), 
+                     format = "%m/%d/%Y")
+
+#convert the dates into a date-time format
+wat$MoE = as.numeric(as.character(wat$MoE))
+
+#coerce factor values to numeric values
+wat$Sample = as.numeric(gsub(" [A-Z]*$", "", as.character(wat$Sample)))
+
+write.csv(wat, file = "hai.csv")
+
+
+
+
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
