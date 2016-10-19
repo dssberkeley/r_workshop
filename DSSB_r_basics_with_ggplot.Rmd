@@ -284,7 +284,7 @@ polls[polls$Clinton == polls$Trump + clinton_highest, ]
 
 ## R Markdown
 
-Let's grab the package we need to graph first.
+Let's grab the package we need for graphing first, it is called ggplot. We've attached a simple cheat sheet to the docs with helpful functions and guides
 
 ```{r}
 install.packages("ggplot2")
@@ -301,8 +301,7 @@ poll_plot + geom_density(mapping = aes(x = Date))
 Next, lets see how many people are usually sampled
 
 ```{r}
-poll_plot + geom_boxplot(mapping = aes(x = 'density', y = Sample)) +
-  scale_y_log10("Sample Size") 
+poll_plot + geom_boxplot(mapping = aes(x = 'density', y = Sample)) + scale_y_log10("Sample Size")
 ```
 
 Here we can look at general candidate approval over the past year and a half
@@ -310,7 +309,7 @@ Here we can look at general candidate approval over the past year and a half
 ```{r}
 ggplot(data = polls, mapping = aes(x = Date)) + 
   geom_point(mapping = aes(y = Clinton), color = 'blue') +
-  geom_smooth(mapping = aes(y = Trump), color = 'red') +
-  scale_y_continuous('Candidate Approval') + theme(legend.position = "bottom")
+  geom_point(mapping = aes(y = Trump), color = 'red') +
+  scale_y_continuous('Candidate Approval')
 ```
-
+This plot is pretty hard to follow, so let's try to think of some better ways to visualize the data.
